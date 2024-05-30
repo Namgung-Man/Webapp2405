@@ -22,7 +22,7 @@ This is a simple chat application built with Streamlit that supports multiple la
 1. **Start the Streamlit application**:
 
     ```sh
-    streamlit run app.py
+    streamlit run webProgram.py
     ```
 
 2. **Access the application**:
